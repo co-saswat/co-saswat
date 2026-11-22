@@ -2,8 +2,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... Software Developer Intern
-- 🌱 I’m currently learning ... React Native, AWS
+- 🔭 I’m currently working on ... Software Engineer at Oracle
+- 🌱 I’m currently learning ... Springboot, Java , Reat, Microservices React Native, AWS
 - 👯 I’m looking to collaborate on ... MERN , Flutter , React Native
 - 🤔 I’m looking for help with ... Flutter , AWS , React Native
 - 💬 Ask me about ... React, Android, React Native 
