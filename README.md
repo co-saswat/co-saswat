@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ... Springboot, Java , Reat, Microservices React Native, AWS
 - 👯 I’m looking to collaborate on ... MERN , Flutter , React Native
 - 🤔 I’m looking for help with ... Flutter , AWS , React Native
-- 💬 Ask me about ... React, Android, React Native 
+- 💬 Ask me about ... Java , Springback , Microservices, React, Android, React Native 
 - 📫 How to reach me: ...  ssm13092013@gmail.com
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I alway curious
